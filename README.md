@@ -2,7 +2,7 @@
 
 Welcome to my repository. This project serves as a centralized hub for my data science case studies, machine learning models, and analytical tools. 
 
-🚀 **Live Portfolio:** [https://yourusername.github.io/your-repo-name/](https://yourusername.github.io/your-repo-name/)
+🚀 **Live Portfolio:** [https://mr-rahulgupta.github.io/Portfolio/)
 
 ---
 
